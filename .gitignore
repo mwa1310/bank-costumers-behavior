@@ -46,6 +46,7 @@ models/*.joblib
 models/*.h5
 models/*.pt
 models/*.pth
+models/*.csv
 !models/.gitkeep
 
 
